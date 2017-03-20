@@ -212,7 +212,7 @@
 
 			this._lastSegment = lastSegment;	
 
-			return this.attr('d', (this.attr('d') || '') + str);
+			return this.plot((this.attr('d') || '') + str);
 		}
 	});
 
