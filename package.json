@@ -22,7 +22,8 @@
     "url": "https://github.com/otm/svg.path.js.git"
   },
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 0.10.0",
+    "@svgdotjs/svg.js": "^3.0"
   },
   "devDependencies": {
     "grunt": "~0.4.2",

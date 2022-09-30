@@ -171,7 +171,7 @@ var rect = draw.path()
 
 ## Utility functions
 
-### clear()
+### clearPath()
 Clear the path from all segments.
 
 ### getSegmentCount()
