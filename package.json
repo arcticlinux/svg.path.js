@@ -19,11 +19,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/otm/svg.path.js.git"
+    "url": "https://github.com/arcticlinux/svg.path.js.git"
   },
   "engines": {
     "node": ">= 0.10.0",
-    "@svgdotjs/svg.js": "^3.0"
+    "@svgdotjs/svg.js": "^3.1.2"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
