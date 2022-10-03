@@ -2,7 +2,7 @@
  * http://otm.github.io/svg.path.js/
  * Copyright (c) 2014 Nils Lagerkvist; Licensed under the  MIT license /
  */
-import SVG from '@svgdotjs/svg.js';
+import SVG from '@svgdotjs/svg.js/src/svg';
 (function() {
 
 	var slice = Function.prototype.call.bind(Array.prototype.slice);
